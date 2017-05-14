@@ -15,7 +15,7 @@ public class InputTest {
 		
 		System.out.println("hello , "+ name + ", next year , you will be " + (age+1));
 		in.close();
-
+        System.out.println("bye");
 	}
 
 }
